@@ -1,0 +1,53 @@
+html {
+  box-sizing: border-box;
+  background-color: whitesmoke;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  margin: 0;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+img {
+  position: relative;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.text-content {
+  max-width: 600px;
+  margin: 0 auto 40px auto;
+  text-align: justify;
+}
+
+li {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+#qoute {
+  font-family: monospace;
+  font-style: italic;
+  margin-bottom: 40px;
+}
+
+#wiki {
+  font-size: 20px;
+  font-weight: bold;
+}
